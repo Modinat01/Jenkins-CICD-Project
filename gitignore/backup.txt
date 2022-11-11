@@ -1,9 +1,0 @@
-/waGG2iT7sH5ARXC3KYzlXAkungULd+NzaFM76smds=}
-
-
-
-
-<?xml version="1.0"?>
-<settingsSecurity>
-   <master>{waGG2iT7sH5ARXC3KYzlXAkungULd+NzaFM76smds=}</master>
-</settingsSecurity>
